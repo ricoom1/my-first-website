@@ -1,0 +1,16 @@
+body {
+     background-color: #4286f4;
+}
+
+
+h1 { 
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 70px;
+
+}
+
+
+p {
+   font-family: 'Open Sans Condensed', sans-serif;
+   color: #f44242;
+   font-size: 24px
